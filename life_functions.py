@@ -12,7 +12,6 @@ def create_grid(filename, height, width):
 # given the grid
 # display in a neat way
 def show_grid(grid):
-def show_grid(grid):
     pass
 
 
