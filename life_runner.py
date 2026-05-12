@@ -1,15 +1,15 @@
 
 
-# get the grid from file
+# write create_grid(): get the grid from text file
 
 
-# print (for debugging)
+# write show_grid(): (for debugging)
 
 
-# count alive (for debugging)
+# write count_alive(): (for debugging)
 
 
-# loop for X life cycles
+# loop for X life cycles, call one_cycle()
 
 
 
