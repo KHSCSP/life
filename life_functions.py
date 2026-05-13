@@ -1,3 +1,10 @@
+'''
+    characters for printing
+    ▫️     ▪️
+    ◻️     ◼️
+     □      ■
+
+'''
 
 
 # given filename, height, width
@@ -7,8 +14,7 @@ def create_grid(filename, height, width):
 
 
 # helpful symbols
-# ▫️◻️◼️▪️
-# □■
+
 # given the grid
 # display in a neat way
 def show_grid(grid):
